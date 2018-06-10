@@ -70,8 +70,7 @@ var handlers =
     this.response.speak("You should have pizza for dinner.");
   }
   else if (stepNumber == 3 && takeout == false && meat == false && large == true) //Corresponds to the question about cooking time. 
-                    //Runs if the user says that they want to eat-in, do not want meat, want a large meal, 
-                    //and want to cook for more than 30 minutes.
+                    //Runs if the user says that they want to eat-in, do not want meat, want a large meal, and want to cook for more than 30 minutes.
   {
     this.response.speak("You should have lasagna for dinner.");
   }
@@ -81,8 +80,7 @@ var handlers =
     this.response.speak("You should have a salad for dinner.");
   }
   else if (stepNumber == 3 && takeout == false && meat == true && large == true) //Corresponds to the question about cooking time. 
-                    //Runs if the user says that they want to eat-in, want meat, want a large meal, 
-                    //and want to cook for more than 30 minutes.
+                    //Runs if the user says that they want to eat-in, want meat, want a large meal, and want to cook for more than 30 minutes.
   {
     this.response.speak("You should have steak for dinner.");
   }
@@ -115,13 +113,11 @@ var handlers =
   else if (stepNumber == 2 && takeout == true && meat == false) //Corresponds to the question about Italian food. 
                     //Runs if the user says that they want to takeout, do not want meat, and do not want Italian food.
   {
-    meat = false;
     this.response.speak("You should have vegetable sushi for dinner.");
   }
   else if (stepNumber == 2 && takeout == true && meat == true) //Corresponds to the question about Italian food. 
                     //Runs if the user says that they want to takeout, want meat, and do not want Italian food.
   {
-    meat = true;
     this.response.speak("You should have sweet and sour chicken for dinner.");
   }
   else if (stepNumber == 3 && takeout == false && meat == false && large == false) //Corresponds to the question about a salad. 

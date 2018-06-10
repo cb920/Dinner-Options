@@ -1,7 +1,7 @@
-# Dinner-Options
+## Dinner-Options
 Amazon Alexa Skill called Dinner Options. 
 
-What is the Dinner Options Skill?
+# What is the Dinner Options Skill?
 The Skill’s purpose is to help the user decide on what they should have for dinner based on their answers to a series of questions.
 
 Why use the Dinner Options Skill?

@@ -16,7 +16,9 @@ Next, I created the Yes Intent and the No Intent. The purpose of the Yes Intent 
 yes or no to any question.In order to keep track of the current question and the answers to the previous questions, the variables had to 
 be manipulated. Within both the Yes Intent and the No Intent are a number of if statements that keep track of the question that the user 
 is answering yes and no to. For example, within the Yes Intent, one of the if statements is  
+
     else if (stepNumber == 2 && takeout == true && meat == true) 
+
 This if statement will execute if the user is answering the second question (stepNumber = 2), the user answered that they want to takeout, 
 and the user wants meat for dinner.
 
@@ -25,3 +27,5 @@ answers to the previous questions.
 
 After this I created the final two intents, Large Intent and Small Intent. The Large Intent is executed when the user answers that they 
 want a large meal for dinner. The Small Intent is executed when the user answers that they want a small meal for dinner.
+
+The diagram below 

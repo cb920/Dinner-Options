@@ -2,12 +2,12 @@
 Amazon Alexa Skill called Dinner Options. 
 
 ## What is the Dinner Options Skill?
-The Skill’s purpose is to help the user decide on what they should have for dinner based on their answers to a series of questions.
+The purpose of the Dinner Options Skill is to help the user decide on what they should have for dinner based on their answers to a series of questions.
 
 ## Why use the Dinner Options Skill?
 In society today, everyone is busy working or going to school and when they get home at the end of the day they still have to decide on what they should have for dinner. 
 
-My skill provides a solution to this problem. When the user gets home all they have to do is ask Alexa to open the dinner options skill and answer a series of questions about their dinner preferences for that day.
+The Dinner Options Skill provides a solution to this problem. When the user gets home all they have to do is ask Alexa to open the dinner options skill and answer a series of questions about their dinner preferences for that day.
 
 This skill is useful to anyone at any age. It follows a simple design and is user friendly, meaning that all the user has to do is give a one word answer to each of the questions that are asked.
 

@@ -28,6 +28,6 @@ answers to the previous questions.
 After this I created the final two intents, Large Intent and Small Intent. The Large Intent is executed when the user answers that they 
 want a large meal for dinner. The Small Intent is executed when the user answers that they want a small meal for dinner.
 
-The diagram below illustrates the progression of the Dinner Options Alexa skill.
+The diagram below illustrates the progression of the Dinner Options Alexa Skill.
 
 ![alexa skill 1](https://user-images.githubusercontent.com/39415727/41203776-bbdbdb28-6ca9-11e8-85cb-0e8a039f16c9.jpg)

@@ -16,8 +16,8 @@ To open the skill say "Alexa, open dinner options and talk to me about dinner."
 
 Provide answers to the series of questions that follow.
 
-## What the Dinner Options Skill Consists of?
+## What does the Dinner Options Skill Contain?
 This survey will consist of either three or four questions depending on the users answer to each question.
 
-## How the Dinner Options Skill will work?
+## How does the Dinner Options Skill Produce an Answer?
 Based on the users answers to the questions, Alexa will give the user a dinner idea that fits the criteria they specified in their answers to the questions.
